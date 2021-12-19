@@ -1,0 +1,44 @@
+
+
+    .left-bar
+    {
+      float: left;
+      width: 50%;
+      height: 50%;
+    }
+   
+    .right-bar
+    {
+    
+    padding-top: 100px;  
+    position: relative;
+    color: white;
+    text-align: right;
+    font-weight:700;
+    top: 50px;
+    right: 20px;
+    font-family:'Courier New', Courier, monospace;
+    margin-left: 60%;
+
+    }
+    
+   
+
+  .dean
+  {
+      position: absolute;
+      right: 350px;
+      bottom: 5px;
+  }
+  .logo1
+  {
+    position: absolute;
+      top: 200px;
+      right: 80px;
+    float: right;
+    width: 300px;
+    height: 300px
+  }   
+
+  
+  
